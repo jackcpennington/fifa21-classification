@@ -1,0 +1,12 @@
+name: project
+channels:
+    - default
+    - conda-forge
+dependencies:
+    - python
+    - scikit-learn
+    - jupyter
+    - matplotlib
+    - pandas
+    - seaborn
+    - plotly
